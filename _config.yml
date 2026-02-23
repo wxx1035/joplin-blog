@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Wxx's Blog
+subtitle: '编码本无树，测试亦非台'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Wxx
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.xinxiao.wang
 root: /
 permalink: /p/:abbrlink/
 permalink_defaults:
